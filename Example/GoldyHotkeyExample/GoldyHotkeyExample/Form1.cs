@@ -23,7 +23,6 @@
  *  ※ ID is always returned in random order
  *  ※ Can not define the same key
  * 
- * 
  */
 
 
@@ -44,16 +43,13 @@ namespace GoldyHotkeyExample {
             InitializeComponent();
         }
         
-        Keys temp;
         // Your first action, write HotkeyMaster to global object.
         GoldyHotkey.HotkeyMaster hotkeyMaster;
         private IEnumerable<int> sdf;
-        
-
 
         private void MainForm_Load(object sender, System.EventArgs e) {
             // Second, Instance for hotkeyMaster.
-            // HotkeyMaster need parameter is  handle of OwnerForm
+            // HotkeyMaster necessary parameter is  handle of OwnerForm
             hotkeyMaster = new GoldyHotkey.HotkeyMaster(this.Handle);
 
 
@@ -62,10 +58,6 @@ namespace GoldyHotkeyExample {
             개발자정의핫키등록하기1();
             개발자정의핫키등록하기2();
             핫키제거하기();
-            sdf = HotkeyAdmin.GetEnumratorFromIdList();
-            foreach (int unm in sdf) {
-                this.Text += unm + " ";
-            }
         }
 
         /// <summary>
@@ -113,12 +105,10 @@ namespace GoldyHotkeyExample {
         }
         private void 개발자정의핫키등록하기2() {
 
-
             // 1. Create Action
             Action act = () => {
                 MessageBox.Show("개발자정의핫키등록하기1");
             };
-
 
             // Since returning the ID, and must always be kept
             // ID, you can use when you want to remove(unregistred) the hotkey
