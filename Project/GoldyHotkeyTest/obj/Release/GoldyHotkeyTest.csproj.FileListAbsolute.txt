@@ -1,0 +1,8 @@
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\bin\Release\GoldyHotkeyTest.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\bin\Release\GoldyHotkeyTest.pdb
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\bin\Release\GoldyProject.GoldyHotkey.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\bin\Release\GoldyProject.GoldyHotkey.pdb
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\bin\Release\GoldyProject.GoldyHotkey.xml
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\obj\Release\GoldyHotkeyTest.csprojResolveAssemblyReference.cache
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\obj\Release\GoldyHotkeyTest.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkeyTest\obj\Release\GoldyHotkeyTest.pdb

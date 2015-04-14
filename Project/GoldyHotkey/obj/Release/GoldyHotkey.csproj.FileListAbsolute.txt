@@ -1,0 +1,12 @@
+D:\[1]DATA\Goldy's Diary\공부\c#\[연습]\DLL\GoldyHotkey\GoldyHotkey\bin\Release\GoldyHotkey.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[연습]\DLL\GoldyHotkey\GoldyHotkey\bin\Release\GoldyHotkey.pdb
+D:\[1]DATA\Goldy's Diary\공부\c#\[연습]\DLL\GoldyHotkey\GoldyHotkey\obj\Release\GoldyHotkey.csprojResolveAssemblyReference.cache
+D:\[1]DATA\Goldy's Diary\공부\c#\[연습]\DLL\GoldyHotkey\GoldyHotkey\obj\Release\GoldyHotkey.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[연습]\DLL\GoldyHotkey\GoldyHotkey\obj\Release\GoldyHotkey.pdb
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Release\GoldyHotkey.csprojResolveAssemblyReference.cache
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\bin\Release\GoldyProject.GoldyHotkey.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\bin\Release\GoldyProject.GoldyHotkey.pdb
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Release\GoldyProject.GoldyHotkey.Properties.Resources.resources
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Release\GoldyHotkey.csproj.GenerateResource.Cache
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Release\GoldyProject.GoldyHotkey.dll
+D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Release\GoldyProject.GoldyHotkey.pdb
