@@ -10,3 +10,11 @@ D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\bin\Debug\Go
 D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.dll
 D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.pdb
 D:\[1]DATA\Goldy's Diary\공부\c#\[제작]\GoldyHotkey\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.Properties.Resources.resources
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\bin\Debug\GoldyProject.GoldyHotkey.xml
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\bin\Debug\GoldyProject.GoldyHotkey.dll
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\bin\Debug\GoldyProject.GoldyHotkey.pdb
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\obj\Debug\GoldyHotkey.csprojResolveAssemblyReference.cache
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.Properties.Resources.resources
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\obj\Debug\GoldyHotkey.csproj.GenerateResource.Cache
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.dll
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkey\obj\Debug\GoldyProject.GoldyHotkey.pdb

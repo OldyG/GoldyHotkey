@@ -67,7 +67,6 @@ namespace GoldyHotkeyTest {
         }
 
         #endregion
-
         
         #region 이 범위에 있는 테스트는 허용하지 않아 Exception을 발생합니다.
         /// <summary>
@@ -121,7 +120,7 @@ namespace GoldyHotkeyTest {
         [TestMethod]
         [ExpectedException(typeof(GoldyHotkeyEception))]
         public void TestSpaceFromModifier() {
-            ShortcutKeys temp = ShortcutStringAnalyst.GetShortcutKeys("CTR L+S hi ft+A LT+T");
+            ShortcutKeys temp = ShortcutStringAnalyst.GetShortcutKeys("CTR L+ S hi ft+A LT+T");
         }
         #endregion
     }
