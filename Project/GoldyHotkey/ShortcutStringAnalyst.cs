@@ -28,7 +28,9 @@ namespace GoldyProject.GoldyHotkey
         {
             string[] keys = shortcutString.Split(StringData.DIVISION_MARK);
 
-            if (shortcutString.Equals(StringData.NULL_SHORTCUTKEYS_STRING) || shortcutString.Trim().Equals(StringData.EMPTY) || shortcutString == null)
+            if (shortcutString.Equals(StringData.NULL_SHORTCUTKEYS_STRING) 
+                || shortcutString.Trim().Equals(StringData.EMPTY) 
+                || shortcutString == null)
             {
                 // 빈문자열일경우
                 throw new GoldyHotkeyEception(StringData.WRONG_SHORTCUT_STRING);
@@ -136,7 +138,7 @@ namespace GoldyProject.GoldyHotkey
             }
             if (shortcutString.ToLower().Contains(StringData.WIN_LOWER))
             {
-                info.isWin = true;
+                info.IsWin = true;
             }
         }
 
@@ -163,7 +165,7 @@ namespace GoldyProject.GoldyHotkey
             {
                 info.Key = (Keys)Enum.Parse(typeof(Keys), tempKey);
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
                 System.Text.StringBuilder errMsg = new System.Text.StringBuilder();

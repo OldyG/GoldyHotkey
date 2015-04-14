@@ -10,7 +10,7 @@ D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyHotkeyTest.dl
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyHotkeyTest.pdb
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyProject.GoldyHotkey.dll
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyProject.GoldyHotkey.pdb
-D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyProject.GoldyHotkey.xml
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\obj\Debug\GoldyHotkeyTest.csprojResolveAssemblyReference.cache
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\obj\Debug\GoldyHotkeyTest.dll
 D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\obj\Debug\GoldyHotkeyTest.pdb
+D:\GoldyProject\GoldyHotkey\Project\GoldyHotkeyTest\bin\Debug\GoldyProject.GoldyHotkey.xml

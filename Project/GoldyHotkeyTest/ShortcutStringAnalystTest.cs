@@ -111,7 +111,7 @@ namespace GoldyHotkeyTest {
         [TestMethod]
         [ExpectedException(typeof(GoldyHotkeyEception))]
         public void TestPlusPlusPlus() {
-            ShortcutKeys temp = ShortcutStringAnalyst.GetShortcutKeys("CTRL+Shift+ALT+");
+            ShortcutKeys temp = ShortcutStringAnalyst.GetShortcutKeys("CTRL + Shift + ALT +");//일반키가 없는상태
         }
 
         /// <summary>

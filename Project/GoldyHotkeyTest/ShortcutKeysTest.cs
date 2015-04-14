@@ -47,6 +47,18 @@ namespace GoldyHotkeyTest
         }
 
         /// <summary>
+        /// NormalKey A
+        /// </summary>
+        [TestMethod]
+        public void TestNormalKeyA()
+        {
+            ShortcutKeys tempKey1 = new ShortcutKeys();
+            tempKey1.Key = Keys.A;
+
+            Assert.AreEqual<String>("A", tempKey1.ToString());
+        }
+
+        /// <summary>
         /// Ctrl + A
         /// </summary>
         [TestMethod]
@@ -92,7 +104,7 @@ namespace GoldyHotkeyTest
         public void TestWinAKeys()
         {
             ShortcutKeys tempKey1 = new ShortcutKeys();
-            tempKey1.isWin = true;
+            tempKey1.IsWin = true;
             tempKey1.Key = Keys.A;
 
             Assert.AreEqual<String>("Win + A", tempKey1.ToString());
@@ -108,7 +120,7 @@ namespace GoldyHotkeyTest
             tempKey1.IsCtrl= true;
             tempKey1.IsAlt = true;
             tempKey1.IsShift = true;
-            tempKey1.isWin = true;
+            tempKey1.IsWin = true;
             tempKey1.Key = Keys.A;
 
             Assert.AreEqual<String>("Ctrl + Alt + Shift + Win + A", tempKey1.ToString());
